@@ -1,7 +1,8 @@
-_pycache_/
+__pycache__/
+*.py[cod]
 Notes_genai.txt
 password_neon.txt
-mongo_db/_pycache_/
-mongo_db/myenv/
-mongo_db/.env
+students.txt
+.env
+myenv/
 mongo_db/mongo_db_url.txt
