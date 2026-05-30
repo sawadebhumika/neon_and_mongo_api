@@ -1,3 +1,7 @@
 _pycache_/
 Notes_genai.txt
 password_neon.txt
+mongo_db/_pycache_/
+mongo_db/myenv/
+mongo_db/.env
+mongo_db/mongo_db_url.txt

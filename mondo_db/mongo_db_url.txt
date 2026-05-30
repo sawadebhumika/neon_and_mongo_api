@@ -1,0 +1,5 @@
+mongodb+srv://ineuron:<db_password>@cluster0.3rjbyte.mongodb.net/?appName=Cluster0
+mongodb+srv://bhumika:bhumik2923@cluster0.3rjbyte.mongodb.net/?appName=Cluster0
+
+
+python -m pip install "pymongo[srv]" 
