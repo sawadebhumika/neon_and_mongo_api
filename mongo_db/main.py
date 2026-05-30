@@ -39,3 +39,11 @@ async def get_euron_data():
     async for document in cursor:
         items.append(euron_helper(document))
     return items
+
+@app.get("/euron/show_data")    
+async def show_euron_data():
+    items=[]
+    cursor = neuron_data.find({})
+    async for document in cursor:
+        items.append(euron_helper(document))
+    return items
