@@ -2,7 +2,6 @@ __pycache__/
 *.py[cod]
 Notes_genai.txt
 password_neon.txt
-students.txt
 .env
 myenv/
 mongo_db/mongo_db_url.txt
