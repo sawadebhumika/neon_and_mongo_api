@@ -1,0 +1,40 @@
+DAY 01:
+Internship Portal:
+
+Euron provides a free internship portal with hundreds of projects across various domains and difficulty levels.
+Each project includes PRD, HLD, and LLD documents, simulating real-world project requirements.
+Users can enroll in projects, receive offer letters, and track their progress using a Kanban board.
+The portal allows team collaboration and generates completion letters upon successful project submission.
+
+Course Content Overview:
+
+The course covers key concepts like vector databases, RAG, agentic frameworks (Langchain, Langraph, Autogen), and model fine-tuning.
+The syllabus includes RAG, agentic frameworks, vector databases, model fine-tuning, generative AI inside a cloud, LLM deployment, CICD pipeline, and end-to-end projects.
+
+Basic Python knowledge is required (variable declaration, for loops, while loops, comprehension, classes, objects, functions).
+
+DAY 02:
+generative AI can solve that traditional AI couldn't. Key points included generative AI's ability to create new content, understand context better, and process huge amounts of data quickly.
+The lecture highlighted that AI is not new and has been used for prediction and recommendation systems for a long time. Examples included fare prediction in Ola/Uber, house price prediction, and recommendation systems in Netflix and Amazon.
+The release of the ChatGPT model by OpenAI in 2022 was a turning point, but the actual story began in 2017 with Google's research paper 'Attention is All You Need.' This paper introduced a new architecture that improved the understanding of long contexts and relationships between words, leading to better content generation.
+The lecture emphasized that generative AI is not just about generating text or chatting with AI interfaces but also about controlling machines in natural language without coding knowledge, enabling automation of day-to-day tasks.
+
+The lecture then transitioned to discussing the ideal roadmap for learning generative AI, including:
+Proficiency in Python or another programming language
+Understanding APIs
+Working with different datasets and embeddings
+Understanding vector databases
+Learning RAG (Retrieval Augmented Generation) systems
+Exploring different frameworks for building agents (Langchain, Langraph, Lama indexes, Autogen, N8N)
+Understanding MCPs (Model Context Protocols) and A2A (Agent to Agent) communication
+Model fine-tuning and inferencing
+Exploring generative AI in the cloud (AWS, Azure, GCP)
+Understanding ML Ops or LM Ops
+Building projects for resumes
+
+The lecture also covered potential job roles and salary expectations based on experience level:
+0-2 years: Junior/Fresher AI/ML Engineer or Generative AI Engineer (4-5 LPA, up to 10-12 LPA in product-based companies)
+3-5 years: AI/ML Engineer (12-25 LPA)
+5-10 years: Senior AI Engineer, Gen AI Specialist, or Gen AI Lead (25-50 LPA)
+10-15 years: Principal, Manager, Lead Architect (50 LPA - 1 Cr)
+15-20+ years: Chief AI Officer, Director, VP, Practice Head (Negotiated package)
